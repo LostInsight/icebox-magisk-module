@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=IceBox
+name=Ice Box Magisk Module
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=LostInsight
+description=Ice Box Module For Newer Magisk
 template=1400
